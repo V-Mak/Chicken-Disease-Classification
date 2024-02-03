@@ -31,6 +31,6 @@ if __name__ == '__main__':
         logger.info(f">>>>>>> stage {STAGE_NAME} started <<<<<<<<")
         obj = ModelTrainingPipeline()
         obj.main()
-        logger(f">>>>>>> stage {STAGE_NAME} Completed <<<<<<<<<\n\n------------------------")
+        logger.info(f">>>>>>> stage {STAGE_NAME} Completed <<<<<<<<<\n\n------------------------")
     except Exception as e:
         raise e
