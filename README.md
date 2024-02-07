@@ -42,3 +42,8 @@
 * Using Docker for containerization and managing dependencies.
 * Used GitHub workflows for continuous integration and deployment (CI/CD).
 * Achieved accurate disease classification results as evidenced by evaluation metrics stored in scores.json.
+
+
+
+https://github.com/V-Mak/Chicken-Disease-Classification/assets/111484051/6848c074-d5a5-4376-9bcc-5411c9cab4b0
+
